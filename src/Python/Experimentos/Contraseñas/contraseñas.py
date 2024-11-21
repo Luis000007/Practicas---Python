@@ -3,7 +3,7 @@ from timeit import repeat
 import zipfile
 
 name = 'IFE.zip'
-char = '0123456789'
+char = ('1611')
 
 print("Programa que extrae los archivos de un zip protegido")
 input("Presione enter para comenzar.........")
