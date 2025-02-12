@@ -19,6 +19,7 @@ class CuentaBancaria:
 def main():
     #creación de objetos
     tarjeta1 = CuentaBancaria(numero_tarjeta=12345678910, pin=1234, fecha_vencimiento=2025, saldo_inicial=1000.00)
+
     # if  tarjeta1.es_tarjeta_valida():
     # print("Tarjeta valida :)")
     #else:
