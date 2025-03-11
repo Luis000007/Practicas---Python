@@ -1,4 +1,4 @@
-# Las instrucciones int(), str() y float() son ejemplos de conversión explícita
+    # Las instrucciones int(), str() y float() son ejemplos de conversión explícita
 
 print("Ingresa un numero")
 height = int(input())
