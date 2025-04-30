@@ -11,7 +11,14 @@ print(type("Holis"))
 print(type(34))
 print()
 print()
+
+## Si son diferentes siempre dara False, tambien con doble False
 print(True and False)
 print(False and True)
+print(True and True)
+
+print()
+
+## Si empre y cuando haya un True, dara True
 print(True or False)
 print(False or True)
