@@ -16,3 +16,6 @@ print("LEEEEEEEGEEEEEENDAAARYYYYYYYYYYYY!!!!!")
 """
 print(), type() y range() son ejemplos de funciones incorporadas. Python tiene muchas funciones incorporadas que puedes reutilizar en tu código llamándolas.
 """
+
+num = '45' # cadena
+print(int(num) + 3)
